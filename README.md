@@ -18,7 +18,7 @@ Each folder contains its own README with design notes, complexity analysis, and 
  
 | Problem |
 |---|
-| [Base and Bounds](./Problems/Operating_Systems/Base-and-Bounds) |
+| [Base and Bounds](./Problems/Operating_Systems/Base_and_Bounds) |
  
 ---
  
