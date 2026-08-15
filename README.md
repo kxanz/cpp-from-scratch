@@ -10,7 +10,8 @@ Each folder contains its own README with design notes, complexity analysis, and 
  
 | Implementation |
 |---|
-| |
+| [Hash Table](./Implementations/Hash) |
+
  
 ## Problems
  
