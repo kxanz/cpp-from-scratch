@@ -20,7 +20,8 @@ Each folder contains its own README with design notes, complexity analysis, and 
 | Problem |
 |---|
 | [Base and Bounds](./Problems/Operating_Systems/Base_and_Bounds) |
- 
+| [Adress Translation1](./Problems/Operating_Systems/Adress_Translation1) |
+
 ---
  
 ## Building
