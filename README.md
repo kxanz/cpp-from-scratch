@@ -27,21 +27,23 @@ Each folder contains its own README with design notes, complexity analysis, and 
  
 ## Building
  
-All implementations use C++17 (or later) and are built with CMake:
- 
+All implementations use C++20 and are built with CMake:
+
 ```bash
-mkdir build && cd build
-cmake ..
-make
+cd Implementations
+cmake -B build
+cmake --build build
 ```
  
 ## Structure
  
 ```
 cpp-from-scratch/
-├── stl/         # STL container & smart pointer implementations
-├── problems/    # Coding problems
-└── CMakeLists.txt
+├── Implementations/
+│   ├── CMakeLists.txt
+│   ├── include/       # Header implementations
+│   └── tests/         # Tests per component
+└── Problems/          # Coding problems
 ```
  
 ## Goals

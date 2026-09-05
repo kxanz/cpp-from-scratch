@@ -1,1 +1,4 @@
 build/
+*.dSYM/
+compile_commands.json
+.cache/
